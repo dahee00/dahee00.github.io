@@ -1,15 +1,14 @@
 title: Dahee's blog
-author: Dahee 
+#author: Dahee 
 email: teg0930@sookmyung.ac.kr
-description: >- this is my portfolio. # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dahee00.github.io" 
 show_excerpts: true
+url: "https://dahee00.github.io" 
 
-#twitter_username: jekyllrb
+twitter_username: jekyllrb
 github_username:  dahee song
 
 
