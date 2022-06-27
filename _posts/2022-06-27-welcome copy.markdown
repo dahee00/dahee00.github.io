@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-06-27 20:02:47 +0900
-categories: jekyll update
+title:  "Second Post"
+date:   2022-06-27 16:34:24 +0900
+categories: get familiar with Git
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi this is date.
+I'm struggling to be used to git.
+Why git is so hard?
 
-Jekyll requires blog post files to be named according to the following format:
+Why my git is not working ???
+What the.
+
+I really want to use it.
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
