@@ -1,7 +1,7 @@
 title: Dahee's blog
 author: Dahee 
 email: teg0930@sookmyung.ac.kr
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- this is my portfolio. # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -12,11 +12,7 @@ show_excerpts: true
 #twitter_username: jekyllrb
 github_username:  dahee song
 
-# Build settings
-theme: plainwhite
 
-plugins:
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -38,14 +34,15 @@ plainwhite:
   portfolio_image: "assets/portfolio.png" 
   html_lang: "en" 
   condensed_mobile:
-    - home
+    #- home
     - page
     - post
+
   # generate social links in footer
   social_links:
-    github:  "https://github.com/dahee00.github.io"
-    instagram: "www.instagram.com/daheess_"
-    email: "teg0930@sookmyung.ac.kr"
+    github:  https://github.com/dahee00.github.io
+    instagram: "www.instagram.com/daheess_
+    email: teg0930@sookmyung.ac.kr
 
     # Mastodon instances
     # mastodon:
@@ -66,3 +63,11 @@ plainwhite:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Build settings
+theme: plainwhite
+
+plugins:
+  - jekyll-seo-tag
+
