@@ -1,4 +1,5 @@
 title: Dahee's blog
+author: Dahee 
 email: teg0930@sookmyung.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -35,23 +36,13 @@ plainwhite:
   portfolio_image: "assets/portfolio.png" 
   html_lang: "en" 
   condensed_mobile:
-    #- home
+    - home
     - page
     - post
   # generate social links in footer
   social_links:
-    #twitter: samarsault
     github:  https://github.com/dahee00.github.io
-    #linkedIn: in/samarsault
-    #dribbble: jekyll
-    #flickr:   jekyll
     instagram: www.instagram.com/daheess_
-    #pinterest: jekyll
-    #youtube: jekyll
-    #facebook: jekyll
-    #soundcloud: jekyll
-    #telegram: jekyll
-    #gitlab: jekyll
     email: teg0930@sookmyung.ac.kr
 
     # Mastodon instances
