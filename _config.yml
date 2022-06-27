@@ -41,9 +41,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    github:  https://github.com/dahee00.github.io
-    instagram: www.instagram.com/daheess_
-    email: teg0930@sookmyung.ac.kr
+    github:  "https://github.com/dahee00.github.io"
+    instagram: "www.instagram.com/daheess_"
+    email: "teg0930@sookmyung.ac.kr"
 
     # Mastodon instances
     # mastodon:
